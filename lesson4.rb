@@ -1,0 +1,2 @@
+name = "nana"
+puts name
